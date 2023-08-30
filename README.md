@@ -1,5 +1,5 @@
 # Machine_Learning_Capstone
-A capstone project from NYU Fundamental of Machine Learning
+A capstone project from NYU Fundamental of Machine Learning. \\
 This is a supervised learning because data are labeled with `genre`.
 ## Clean Data
 Replacing na with mean value and normalizing variables(`popularity`, `duration_ms`, `tempo`). Split data into train and test sets.
